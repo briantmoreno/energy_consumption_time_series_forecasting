@@ -11,4 +11,6 @@ Analyze and prepare a time series to forecast energy consumption data over time.
 * Transforming Non-Stationary Time Series
 * Forecasting with SARIMA model
 * Results analysis and conclusion
-
+## Reference
+The data series used for this project was obtained from:
+IEA, Monthly Electricity Statistics, IEA, Paris https://www.iea.org/data-and-statistics/data-product/monthly-electricity-statistics, Licence: Terms of Use for Non-CC Material
